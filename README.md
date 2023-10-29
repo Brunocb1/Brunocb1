@@ -16,9 +16,9 @@
  
   ### Para me conhecer melhor segue minhas Redes Sociais abaixo!
   <div style="text-decoration: none">
-   <a  href="https://www.facebook.com/brunohenriquedos.santos.353/" target="_blank">Faceboolk</a>
-   <a  href="https://www.instagram.com/brunohdsantos93/" target="_blank">Instagram</a>
-   <a  href="https://www.linkedin.com/in/bruno-henrique-dos-santos-4a4b2b161/" target="_blank">Linkedin</a>
+   <a  href="https://www.facebook.com/brunohenriquedos.santos.353" target="_blank">Facebook</a>
+   <a  href="https://www.instagram.com/brunohdsantos93" target="_blank">Instagram</a>
+   <a  href="https://www.linkedin.com/in/bruno-henrique-dos-santos-4a4b2b161" target="_blank">Linkedin</a>
   </div>
  
 <div> 
