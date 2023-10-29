@@ -15,6 +15,11 @@
  <br>
  
   ### Para me conhecer melhor segue minhas Redes Sociais abaixo!
+  <div>
+   <a style="color: blue " href="https://www.facebook.com/brunohenriquedos.santos.353/">Faceboolk</a>
+   <a style="color: pink " href="https://www.instagram.com/brunohdsantos93/">Instagram</a>
+   <a style="color: navyblue" href="https://www.linkedin.com/in/bruno-henrique-dos-santos-4a4b2b161/">Linkedin</a>
+  </div>
  
 <div> 
  
