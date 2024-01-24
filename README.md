@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Bruno Santos 😁
+## Welcome to Bruno Santos' profile 😁
 
  <div>
    <a href="https://github.com/Brunocb1">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Para me conhecer melhor segue minhas Redes Sociais abaixo!
+  ### To get to know me better, follow my Social Media below!
   <div style="text-decoration: none">
    <a  href="https://www.facebook.com/brunohenriquedos.santos.353" target="_blank">Facebook</a>
    <a  href="https://www.instagram.com/brunohdsantos93" target="_blank">Instagram</a>
